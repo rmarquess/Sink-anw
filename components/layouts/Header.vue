@@ -27,7 +27,7 @@ const showMenu = ref(false)
                 class="w-full h-full rounded-full"
               >
             </span>
-            <span class="mx-2">Aprenda Na Web - URL Shortner</span>
+            <span class="mx-2">Aprenda Na Web</span>
           </a>
         </div>
 
@@ -53,7 +53,7 @@ const showMenu = ref(false)
                   class="w-full h-full rounded-full"
                 >
               </span>
-              <span class="mx-2">Aprenda Na Web - URL Shortner</span>
+              <span class="mx-2">Aprenda Na Web</span>
             </a>
             <div class="w-full mx-4" />
             <div
