@@ -4,6 +4,6 @@
     <HomeHero />
     <HomeFeatures />
     <HomeLogos />
-    <HomeCta />
+    <!--<HomeCta /> -->
   </main>
 </template>
